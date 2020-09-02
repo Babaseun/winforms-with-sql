@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "THzZjaN68S4pdK2wDPlxVKYM4a0WsZ2kX9tKEiNd9z/GhpAymll82KbJzN+ZlIT9YIT+orrMPwhQFRU4V7YlEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Project\\week-7-task-Babaseun\\ECommerceClassLibrary\\ECommerceClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
